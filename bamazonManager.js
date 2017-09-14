@@ -62,7 +62,7 @@ function showInventory() {
 
 function showLow() {
   var query = connection.query(
-    "SELECT product_name, stock_quantity FROM bamazon.products HAVING stock_quantity < 5 ORDER BY stock_quantity DESC",
+    "SELECT item_id, product_name, stock_quantity FROM bamazon.products HAVING stock_quantity < 5 ORDER BY stock_quantity DESC",
     function(err, res) {
     if (err) {
       return console.log(err);
