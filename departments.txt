@@ -1,10 +1,1 @@
-Automotive Parts
-Beauty & Personal Care
-Clothing, Shoes & Jewelry
-Collectibles & Fine Art
-Electronics
-Home & Kitchen
-Music, Movies & TV
-Sports & Outdoors
-Tools & Home Improvement
-Toys & Games
+Automotive Parts|Beauty & Personal Care|Clothing, Shoes & Jewelry|Collectibles & Fine Art|Electronics|Home & Kitchen|Music, Movies & TV|Sports & Outdoors|Tools & Home Improvement|Toys & Games
